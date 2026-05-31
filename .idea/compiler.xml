@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="tui-2-twixu819-master.tui-2-twixu819-master.main" target="24" />
+      <module name="tui-2-twixu819-master.tui-2-twixu819-master.test" target="24" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
