@@ -3,19 +3,9 @@
 ![](terminal-icon.png)
 ![](gui-icon.png)
 
-Це одна з робіт, які доповнюють основний цикл лабораторних робіт #1-8 (проект **Banking**, [Netbeans](https://netbeans.org/)) з ООП.  Основна мета цих додаткових вправ - познайомитись з різними видами інтерфейсів користувача та засобами їх створення. Згадувані 'базові' роботи розміщено в [окремому репозиторії](https://github.com/liketaurus/OOP-JAVA) (якщо будете робити завдання на "4" або "5" раджу переглянути [діаграму класів](https://github.com/liketaurus/OOP-JAVA/blob/master/MyBank.png), аби розуміти які методи є у класів).
+В цій лабораторній роботі я розібрався з консольним інтерфейсом командного рядка CLI в стилі REPL за допомогою бібліотеки JLine 3. Було виконано завдання на 4, за допомогою оператора instanceof реалізовано динамічну перевірку та відображення типу рахунку клієнта SavingsAccount чи CheckingAccount в інтерфейсі програми, а також налаштовано автоматичне завантаження бази даних із файлу test.dat через клас DataSource.
 
-В ході першої роботи вам пропонується виконати **наступне завдання** - [Робота 2: CLI з jline 3](https://github.com/ppc-ntu-khpi/TUI-Lab2-Starter/blob/master/Lab%202%20-%20CLI/Lab%202.md)
-  
-**Додаткове завдання** (для тих хто зробив все і прагне більшого): [дивіться тут](https://github.com/ppc-ntu-khpi/TUI-Lab2-Starter/blob/master/Lab%202%20-%20CLI/Lab%202%20-%20add.md)
-
-Всі необхідні бібліотеки містяться у теці [jars](https://github.com/ppc-ntu-khpi/TUI-Lab2-Starter/tree/master/jars). В тому числі - всі необхідні відкомпільовані класи з робіт 1-8 - файл [MyBank.jar](https://github.com/ppc-ntu-khpi/TUI-Lab2-Starter/blob/master/jars/MyBank.jar). Файл даних лежить у теці [data](https://github.com/ppc-ntu-khpi/TUI-Lab2-Starter/tree/master/data).
-
----
-**УВАГА! Не забуваємо здавати завдання через Google Classroom та вказувати посилання на створений для вас репозиторій!**
-
-Також пам'ятайте, що ніхто не заважає вам редагувати файл README у вашому репозиторії😉.
-А ще - дуже раджу спробувати нову фічу - інтеграцію з IDE REPL.it (хоч з таким завданням вона може й не впоратись, однак, цікаво ж!).
+![Image Alt](https://github.com/ppc-ntu-khpi/tui-2-twixu819/blob/master/tui-2-twixu819-master/изображение_2026-06-01_013631812.png)
 
 ![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
 ![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
